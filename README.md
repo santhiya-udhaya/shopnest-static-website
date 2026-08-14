@@ -120,9 +120,8 @@ Upload the `shopnest` folder to any web hosting service (GitHub Pages, Netlify, 
 
 ---
 
-## ✨ Assignment Requirements Satisfaction
 
-### ✅ HTML5 (5 Marks)
+### ✅ HTML5
 
 | Requirement | Implementation | Location |
 |---|---|---|
@@ -142,7 +141,7 @@ Upload the `shopnest` folder to any web hosting service (GitHub Pages, Netlify, 
 
 ---
 
-### ✅ CSS + Bootstrap (5 Marks)
+### ✅ CSS + Bootstrap 
 
 | Requirement | Implementation | Location |
 |---|---|---|
@@ -160,7 +159,7 @@ Upload the `shopnest` folder to any web hosting service (GitHub Pages, Netlify, 
 
 ---
 
-### ✅ Responsive Layout (5 Marks)
+### ✅ Responsive Layout
 
 | Requirement | Breakpoints Supported | Implementation |
 |---|---|---|
@@ -181,7 +180,7 @@ Upload the `shopnest` folder to any web hosting service (GitHub Pages, Netlify, 
 
 ---
 
-### ✅ Product Cards (5 Marks)
+### ✅ Product Cards
 
 | Requirement | Details | Location |
 |---|---|---|
@@ -202,13 +201,10 @@ Wireless Headphones
 ₹4,999 → ₹2,999 (40% off)
 ★★★★★ (128 reviews)
 Add to Cart Button
-```
-
-**Total Score: 5/5 marks** ✅
 
 ---
 
-### ✅ Categories / Newsletter / Footer (3 Marks)
+### ✅ Categories / Newsletter / Footer 
 
 | Section | Details | Location |
 |---|---|---|
@@ -224,11 +220,11 @@ Add to Cart Button
 | **Footer Social Media** | Facebook, Instagram, Twitter, LinkedIn icons | Lines 454-466 |
 | **Copyright Section** | "© 2026 ShopNest. All Rights Reserved." | Line 473 |
 
-**Total Score: 3/3 marks** ✅
+
 
 ---
 
-### ✅ Code Quality (2 Marks)
+### ✅ Code Quality 
 
 | Requirement | Implementation | Location |
 |---|---|---|
@@ -241,11 +237,11 @@ Add to Cart Button
 | **Separate Files** | HTML, CSS, and JavaScript in separate files | Organized in folders |
 | **No Inline CSS** | No style attributes in HTML | CSS all in external style.css |
 
-**Total Score: 2/2 marks** ✅
+
 
 ---
 
-## 🎯 Feature Checklist (All Implemented ✅)
+## 🎯 Feature Checklist 
 
 ### Navigation
 - [x] Sticky navigation bar
