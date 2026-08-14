@@ -176,7 +176,6 @@ Upload the `shopnest` folder to any web hosting service (GitHub Pages, Netlify, 
 - 767px: Tablet/Mobile adjustments
 - 575px: Extra small devices
 
-**Total Score: 5/5 marks** ✅
 
 ---
 
